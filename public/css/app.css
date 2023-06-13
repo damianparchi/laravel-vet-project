@@ -1,0 +1,6 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.2/css/bootstrap.min.css');
+#email, #password {
+    color: transparent;
+    text-shadow: 0 0 0 #045e9f;
+
+}
